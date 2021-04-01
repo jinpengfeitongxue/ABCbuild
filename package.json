@@ -1,0 +1,24 @@
+{
+  "name": "ABCbuild",
+  "version": "1.0.0",
+  "description": "Gitbook",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinpengfeitongxue/ABCbuild.git"
+  },
+  "keywords": [],
+  "author": "majinpeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jinpengfeitongxue/ABCbuild/issues"
+  },
+  "homepage": "https://github.com/jinpengfeitongxue/ABCbuild#readme"
+}
